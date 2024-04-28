@@ -4,4 +4,9 @@ public class New {
     int i=1;
         System.out.print("king");
     }
-}git
+
+    public void add()
+    {
+        System.out.print("added on master");
+    }
+}
